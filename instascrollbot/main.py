@@ -4,7 +4,7 @@ import time
 pyautogui.FAILSAFE = True  # Move mouse to top-left to stop the script
 
 #how many times it should drag slider down:
-dragcount = 250
+dragcount = 500
 #how many times it should wait between slide down.:
 slidewait = 1.5
 

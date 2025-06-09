@@ -6,3 +6,8 @@ youtubeauto-env/
 
 # __pycache__
 __pycache__/
+
+# comment_extractor
+comment_extractor/raw_comments.txt
+comment_extractor/extracted_comments.txt
+comment_extractor/normalized_comments.txt
